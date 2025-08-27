@@ -11,5 +11,13 @@ There are two folders: 'Experimental Version' and 'Stable Version'. The latter c
 - Higher third-eye frame rate
 - Improved map compatibility
 
+## Video Demo
+
+- [Obstacle Avoidance](https://youtu.be/h4kMZBLGiZ8)
+- [Minimum Jerk Obstacle Avoidance](https://youtu.be/8mmam-L0z6k)
+- [Free Roam 1](https://youtu.be/FIeISyLPlIg)
+- [Free Roam 2](https://youtu.be/8Xymky_w7L0)
+- [Free Roam 3](https://youtu.be/j0Iq-UaqQng)
+
 
 
