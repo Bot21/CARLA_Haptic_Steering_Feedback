@@ -11,7 +11,7 @@ There are two folders: 'Experimental Version' and 'Stable Version'. The latter c
 - Higher third-eye frame rate
 - Improved map compatibility
 
-## Video Demo
+## Video Demo (with automatic steering)
 
 - [Obstacle Avoidance](https://youtu.be/h4kMZBLGiZ8)
 - [Minimum Jerk Obstacle Avoidance](https://youtu.be/8mmam-L0z6k)
