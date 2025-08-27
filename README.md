@@ -8,7 +8,7 @@ There are two folders: 'Experimental Version' and 'Stable Version'. The latter c
 
 - New vehicle following behaviour + visual trajectory guidance
 - Dynamic obstacle avoidance
-- Higher third-eye frame rate
+- Higher frame rate
 - Improved map compatibility
 
 ## Video Demo (with automatic steering)
